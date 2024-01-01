@@ -1,1 +1,1 @@
-"This is my chapter 3 where we will start some new project"
+"This is my chapter 3 where we will start some new project that is how to add a git hub online repository"
